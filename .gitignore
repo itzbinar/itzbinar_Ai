@@ -45,6 +45,11 @@ changelogUI.md
 docs/instructions/Roadmap.md
 .cursorrules
 *.md
+!README.md
+!CHANGELOG-NETLIFY.md
+!NETLIFY-DEPLOY.md
+!netlify-README.md
+!NETLIFY-MEMORY-FIX.md
 .qodo
 
 # Local Netlify folder
